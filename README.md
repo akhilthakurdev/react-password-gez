@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 
-![image](https://github.com/akhilthakurdev/react-password-gez/assets/71585719/045c36a0-dca3-4c5f-8caa-6808f5b6d178)
+![image](https://github.com/akhilthakurdev/react-password-gez/assets/71585719/bfe14273-39c7-43ba-b64e-d4ede83a2d94)
+
 
 
 
