@@ -3,8 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-![Uploading image.png…]()
 
+
+![image](https://github.com/akhilthakurdev/react-password-gez/assets/71585719/045c36a0-dca3-4c5f-8caa-6808f5b6d178)
 
 
 
